@@ -1,0 +1,22 @@
+# ⚠️ Prevent secrets from leaking
+.env
+
+# Node modules & Vite output
+node_modules/
+dist/
+
+# System files
+.DS_Store
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE junk
+.vscode/
+.idea/
+
+# Optional OS junk
+Thumbs.db
