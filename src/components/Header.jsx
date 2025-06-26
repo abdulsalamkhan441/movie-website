@@ -27,11 +27,11 @@ const Header = () => {
             },
           }
         );
-        setPopularMovies(response.data.results); // <-- set movies
+        setPopularMovies(response.data.results); 
       } catch (error) {
         console.error("Failed to fetch popular movies:", error);
       } finally {
-        setLoading(false); // <-- stop loading
+        setLoading(false); 
       }
     };
     fetchPopularMovies();
