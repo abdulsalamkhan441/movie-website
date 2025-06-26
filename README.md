@@ -26,6 +26,10 @@ A responsive movie browsing app that allows users to explore trending films, vie
 
 ---
 
+## 📸 Screenshots
+
+![App Screenshot](./public/screenshot.PNG)
+
 ## 📦 Getting Started
 
 1. Clone the repo:
